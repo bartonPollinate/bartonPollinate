@@ -1,1 +1,16 @@
 - 👋 Hi, I’m @bartonPollinate
+- Currently a Wordpress Specialist but I've got a broad range of skills
+  - I love building in React and Next as well.
+- JAMstack enthusiast
+- I've built more than 40 websites
+- I've maintain sites with visits in the millions
+- I am passionate about accessiblity
+- I even ask for allergies and dietary restrictions when I cook
+- I've done websites for government clients, financial institutions, sites with interactions geared toward young children all with their own legal requirements
+- Currently Playing: Marathon
+- Currently listening to: Raein
+- I also like to:
+  - Play Guitar (I own 7, including one bass guitar. My current favorite is a Chapman baritone)
+  - Cook
+  - Do weighted calisthenics (the Planche was too confusing so I added a weight belt)
+- check out my portfolio (bartonwhite.me)[https://bartonwhite.me]
