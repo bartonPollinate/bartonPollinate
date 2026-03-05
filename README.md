@@ -13,4 +13,4 @@
   - Play Guitar (I own 7, including one bass guitar. My current favorite is a Chapman baritone)
   - Cook
   - Do weighted calisthenics (the Planche was too confusing so I added a weight belt)
-- check out my portfolio (bartonwhite.me)[https://bartonwhite.me]
+- check out my portfolio [bartonwhite.me](https://bartonwhite.me)
